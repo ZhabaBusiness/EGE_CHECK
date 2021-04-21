@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EGE_CHECK/static/css/main.611c0286.chunk.css",
+    "main.js": "/EGE_CHECK/static/js/main.6090d949.chunk.js",
+    "main.js.map": "/EGE_CHECK/static/js/main.6090d949.chunk.js.map",
+    "runtime-main.js": "/EGE_CHECK/static/js/runtime-main.1f88dc52.js",
+    "runtime-main.js.map": "/EGE_CHECK/static/js/runtime-main.1f88dc52.js.map",
+    "static/js/2.18037d4e.chunk.js": "/EGE_CHECK/static/js/2.18037d4e.chunk.js",
+    "static/js/2.18037d4e.chunk.js.map": "/EGE_CHECK/static/js/2.18037d4e.chunk.js.map",
+    "static/js/3.0792113d.chunk.js": "/EGE_CHECK/static/js/3.0792113d.chunk.js",
+    "static/js/3.0792113d.chunk.js.map": "/EGE_CHECK/static/js/3.0792113d.chunk.js.map",
+    "index.html": "/EGE_CHECK/index.html",
+    "static/css/main.611c0286.chunk.css.map": "/EGE_CHECK/static/css/main.611c0286.chunk.css.map",
+    "static/js/2.18037d4e.chunk.js.LICENSE.txt": "/EGE_CHECK/static/js/2.18037d4e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/EGE_CHECK/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f88dc52.js",
+    "static/js/2.18037d4e.chunk.js",
+    "static/css/main.611c0286.chunk.css",
+    "static/js/main.6090d949.chunk.js"
+  ]
+}
